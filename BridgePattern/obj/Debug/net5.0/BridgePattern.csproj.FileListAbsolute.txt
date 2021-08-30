@@ -1,0 +1,16 @@
+/home/vq010/Projects/NetDesignPattern/BridgePattern/bin/Debug/net5.0/BridgePattern
+/home/vq010/Projects/NetDesignPattern/BridgePattern/bin/Debug/net5.0/BridgePattern.deps.json
+/home/vq010/Projects/NetDesignPattern/BridgePattern/bin/Debug/net5.0/BridgePattern.runtimeconfig.json
+/home/vq010/Projects/NetDesignPattern/BridgePattern/bin/Debug/net5.0/BridgePattern.runtimeconfig.dev.json
+/home/vq010/Projects/NetDesignPattern/BridgePattern/bin/Debug/net5.0/BridgePattern.dll
+/home/vq010/Projects/NetDesignPattern/BridgePattern/bin/Debug/net5.0/ref/BridgePattern.dll
+/home/vq010/Projects/NetDesignPattern/BridgePattern/bin/Debug/net5.0/BridgePattern.pdb
+/home/vq010/Projects/NetDesignPattern/BridgePattern/obj/Debug/net5.0/BridgePattern.csproj.AssemblyReference.cache
+/home/vq010/Projects/NetDesignPattern/BridgePattern/obj/Debug/net5.0/BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/vq010/Projects/NetDesignPattern/BridgePattern/obj/Debug/net5.0/BridgePattern.AssemblyInfoInputs.cache
+/home/vq010/Projects/NetDesignPattern/BridgePattern/obj/Debug/net5.0/BridgePattern.AssemblyInfo.cs
+/home/vq010/Projects/NetDesignPattern/BridgePattern/obj/Debug/net5.0/BridgePattern.csproj.CoreCompileInputs.cache
+/home/vq010/Projects/NetDesignPattern/BridgePattern/obj/Debug/net5.0/BridgePattern.dll
+/home/vq010/Projects/NetDesignPattern/BridgePattern/obj/Debug/net5.0/ref/BridgePattern.dll
+/home/vq010/Projects/NetDesignPattern/BridgePattern/obj/Debug/net5.0/BridgePattern.pdb
+/home/vq010/Projects/NetDesignPattern/BridgePattern/obj/Debug/net5.0/BridgePattern.genruntimeconfig.cache
