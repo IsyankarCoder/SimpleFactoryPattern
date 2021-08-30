@@ -7,5 +7,6 @@
   <ItemGroup>
     <Content Include="DataObject.cs" />
     <Content Include="CustomerData.cs" />
+    <Content Include="Program.cs" />
   </ItemGroup>
 </Project>
