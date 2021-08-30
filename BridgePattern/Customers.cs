@@ -7,7 +7,7 @@ namespace BridgePattern{
         {
             //Add Seperator lines
             Console.WriteLine();
-            Console.WriteLine("----------------------------");
+            Console.WriteLine("-----------------------------");
             base.ShowAll();
             Console.WriteLine("----------------------------");
         }
