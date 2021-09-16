@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNZO3Ik3SrZx5KR5CziQ5iommOfouH8wIBaztpz4xO+gF127fHFR+ZETxvyd1NrzOQQ6Vs936Avm+05CDQcuZQ==",
+  "success": true,
+  "projectFilePath": "/home/vq010/Projects/NetDesignPattern/SingletonPattern/SingletonPattern.csproj",
+  "expectedPackageFiles": [
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
