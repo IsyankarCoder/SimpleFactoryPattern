@@ -10,5 +10,7 @@
   <ItemGroup>
     <PackageReference Include="System.Collections" Version="4.3.0" />
     <Content Include=".vscode\launch.json" />
+    <Content Include="LoadBalancer.cs" />
+    <Content Include=".vscode\tasks.json" />
   </ItemGroup>
 </Project>
