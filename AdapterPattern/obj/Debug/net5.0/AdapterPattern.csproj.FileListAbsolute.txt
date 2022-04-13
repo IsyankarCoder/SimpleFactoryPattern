@@ -1,0 +1,5 @@
+/home/vq010/Projects/NetDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.csproj.AssemblyReference.cache
+/home/vq010/Projects/NetDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/vq010/Projects/NetDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.AssemblyInfoInputs.cache
+/home/vq010/Projects/NetDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.AssemblyInfo.cs
+/home/vq010/Projects/NetDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.csproj.CoreCompileInputs.cache

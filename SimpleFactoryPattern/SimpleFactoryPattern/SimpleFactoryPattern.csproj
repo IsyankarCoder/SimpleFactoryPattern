@@ -6,7 +6,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Program.cs" />
-    <Content Include="PersonDavid.cs" />
-    <Content Include="PersonJohn.cs" />
+    <Content Include="CarManager.cs" />
+    <Content Include="ICreditCard.cs" />
+    <Content Include="Titanium.cs" />
+    <Content Include="Platinum.cs" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,16 @@
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/bin/Debug/net5.0/SimpleFactoryPattern
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/bin/Debug/net5.0/SimpleFactoryPattern.deps.json
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/bin/Debug/net5.0/SimpleFactoryPattern.runtimeconfig.json
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/bin/Debug/net5.0/SimpleFactoryPattern.runtimeconfig.dev.json
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/bin/Debug/net5.0/SimpleFactoryPattern.dll
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/bin/Debug/net5.0/ref/SimpleFactoryPattern.dll
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/bin/Debug/net5.0/SimpleFactoryPattern.pdb
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/obj/Debug/net5.0/SimpleFactoryPattern.csproj.AssemblyReference.cache
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/obj/Debug/net5.0/SimpleFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/obj/Debug/net5.0/SimpleFactoryPattern.AssemblyInfoInputs.cache
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/obj/Debug/net5.0/SimpleFactoryPattern.AssemblyInfo.cs
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/obj/Debug/net5.0/SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/obj/Debug/net5.0/SimpleFactoryPattern.dll
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/obj/Debug/net5.0/ref/SimpleFactoryPattern.dll
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/obj/Debug/net5.0/SimpleFactoryPattern.pdb
+/home/vq010/Projects/NetDesignPattern/SimpleFactoryPattern/SimpleFactoryPattern/obj/Debug/net5.0/SimpleFactoryPattern.genruntimeconfig.cache
