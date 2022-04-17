@@ -1,0 +1,16 @@
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.deps.json
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.json
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.dev.json
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.dll
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/bin/Debug/net5.0/ref/SingletonPattern.dll
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.pdb
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.AssemblyReference.cache
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfoInputs.cache
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfo.cs
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.dll
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/obj/Debug/net5.0/ref/SingletonPattern.dll
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.pdb
+/home/vq010/Projects/NetDesignPattern/NonThreadSafetySingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.genruntimeconfig.cache
