@@ -1,8 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
-
+  <ItemGroup>
+    <Content Include="Program.cs" />
+    <Content Include="PlatinumFactory.cs" />
+    <Content Include="Platinum.cs" />
+    <Content Include="MoneyBack.cs" />
+    <Content Include="Titanium.cs" />
+    <Content Include="MoneyBackFactory.cs" />
+    <Content Include="TitaniumFactory.cs" />
+  </ItemGroup>
 </Project>
