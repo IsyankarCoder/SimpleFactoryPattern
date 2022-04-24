@@ -1,0 +1,16 @@
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/bin/Debug/net5.0/DontTellAskPattern
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/bin/Debug/net5.0/DontTellAskPattern.deps.json
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/bin/Debug/net5.0/DontTellAskPattern.runtimeconfig.json
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/bin/Debug/net5.0/DontTellAskPattern.runtimeconfig.dev.json
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/bin/Debug/net5.0/DontTellAskPattern.dll
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/bin/Debug/net5.0/ref/DontTellAskPattern.dll
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/bin/Debug/net5.0/DontTellAskPattern.pdb
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/obj/Debug/net5.0/DontTellAskPattern.csproj.AssemblyReference.cache
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/obj/Debug/net5.0/DontTellAskPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/obj/Debug/net5.0/DontTellAskPattern.AssemblyInfoInputs.cache
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/obj/Debug/net5.0/DontTellAskPattern.AssemblyInfo.cs
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/obj/Debug/net5.0/DontTellAskPattern.csproj.CoreCompileInputs.cache
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/obj/Debug/net5.0/DontTellAskPattern.dll
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/obj/Debug/net5.0/ref/DontTellAskPattern.dll
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/obj/Debug/net5.0/DontTellAskPattern.pdb
+/home/vq010/Projects/NetDesignPattern/DontTellAskPattern/DontTellAskPattern/obj/Debug/net5.0/DontTellAskPattern.genruntimeconfig.cache
