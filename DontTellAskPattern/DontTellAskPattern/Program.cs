@@ -31,7 +31,7 @@ namespace DontTellAskPattern
                    // alert
                }
            }
-        }
+        } 
     }*/
     //Refactored
 
