@@ -1,0 +1,16 @@
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/obj/Debug/net5.0/observerpattern.csproj.AssemblyReference.cache
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/obj/Debug/net5.0/observerpattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/obj/Debug/net5.0/observerpattern.AssemblyInfoInputs.cache
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/obj/Debug/net5.0/observerpattern.AssemblyInfo.cs
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/obj/Debug/net5.0/observerpattern.csproj.CoreCompileInputs.cache
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/bin/Debug/net5.0/observerpattern
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/bin/Debug/net5.0/observerpattern.deps.json
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/bin/Debug/net5.0/observerpattern.runtimeconfig.json
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/bin/Debug/net5.0/observerpattern.runtimeconfig.dev.json
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/bin/Debug/net5.0/observerpattern.dll
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/bin/Debug/net5.0/ref/observerpattern.dll
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/bin/Debug/net5.0/observerpattern.pdb
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/obj/Debug/net5.0/observerpattern.dll
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/obj/Debug/net5.0/ref/observerpattern.dll
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/obj/Debug/net5.0/observerpattern.pdb
+/home/vq010/Projects/NetDesignPattern/ObserverPattern/observerpattern/obj/Debug/net5.0/observerpattern.genruntimeconfig.cache
