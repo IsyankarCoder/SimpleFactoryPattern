@@ -1,0 +1,16 @@
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/obj/Debug/net5.0/IocDip.csproj.AssemblyReference.cache
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/obj/Debug/net5.0/IocDip.GeneratedMSBuildEditorConfig.editorconfig
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/obj/Debug/net5.0/IocDip.AssemblyInfoInputs.cache
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/obj/Debug/net5.0/IocDip.AssemblyInfo.cs
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/obj/Debug/net5.0/IocDip.csproj.CoreCompileInputs.cache
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/bin/Debug/net5.0/IocDip
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/bin/Debug/net5.0/IocDip.deps.json
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/bin/Debug/net5.0/IocDip.runtimeconfig.json
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/bin/Debug/net5.0/IocDip.runtimeconfig.dev.json
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/bin/Debug/net5.0/IocDip.dll
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/bin/Debug/net5.0/ref/IocDip.dll
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/bin/Debug/net5.0/IocDip.pdb
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/obj/Debug/net5.0/IocDip.dll
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/obj/Debug/net5.0/ref/IocDip.dll
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/obj/Debug/net5.0/IocDip.pdb
+/home/vq010/Projects/NetDesignPattern/InversionOfControlWithFacoryandDIP/IocDip/obj/Debug/net5.0/IocDip.genruntimeconfig.cache
